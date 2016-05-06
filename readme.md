@@ -38,8 +38,8 @@ The documents contained in this repository are NOT legal documents, and should n
 documents. The documents provided by this repository are merely drop-in samples to be used while the *real* legal
 documents are prepared by a qualified professional. These samples are meant to be used during the development phase
 of your application (internal and private use only), and should never be used on a production site which is actively
-being used by the public. By using these templates, you agree to these terms and will not hold the the author(s) or
-contributor(s) of these sample files liable for any legal action(s), concern(s), claim(s), or any problem(s) that might
+being used by the public. By using these templates, you agree to these terms and will not hold the author(s) or
+contributor(s) of these sample files liable for any legal action, concern, claim, or any other such problem that might
 result from the improper use of these documents (whether intentional or otherwise). Basically, just use these files
 responsibly, and replace these sample templates with (legitimate) legal documents before your applications are launched. 
  
